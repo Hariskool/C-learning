@@ -1,0 +1,7 @@
+C:\Projects\C learning\regularExpression\regularExpression\bin\Debug\regularExpression.exe.config
+C:\Projects\C learning\regularExpression\regularExpression\bin\Debug\regularExpression.exe
+C:\Projects\C learning\regularExpression\regularExpression\bin\Debug\regularExpression.pdb
+C:\Projects\C learning\regularExpression\regularExpression\obj\Debug\regularExpression.csprojResolveAssemblyReference.cache
+C:\Projects\C learning\regularExpression\regularExpression\obj\Debug\regularExpression.csproj.CoreCompileInputs.cache
+C:\Projects\C learning\regularExpression\regularExpression\obj\Debug\regularExpression.exe
+C:\Projects\C learning\regularExpression\regularExpression\obj\Debug\regularExpression.pdb
